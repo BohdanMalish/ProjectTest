@@ -1,0 +1,19 @@
+.ebirthday-month {
+  margin-bottom: 20px;
+}
+.ebirthday {
+  margin-top: 50px;
+  letter-spacing: 2px;
+}
+.ebirthday-title {
+  font-weight: 500;
+  font-size: 30px;
+}
+.ebirtday-empty {
+  font-weight: 500;
+  color: crimson;
+}
+.Name-of-month {
+  font-weight: 500;
+  font-size: 20px;
+}

@@ -1,0 +1,32 @@
+.employees {
+  display: flex;
+  padding-bottom: 200px;
+  background-color: antiquewhite;
+}
+
+.employees-page {
+  margin-right: 50px;
+  max-width: 1000px;
+}
+
+.employees-letters {
+  display: flex;
+  flex-wrap: wrap;
+}
+.employees-letter {
+  margin: 20px 150px 20px 10px;
+  font-size: 30px;
+  font-weight: 500;
+  width: 90%;
+  text-align: center;
+}
+.employees-title {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.empty-letter {
+  font-size: 40px;
+  padding-left: 80px;
+}

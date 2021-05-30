@@ -1,0 +1,10 @@
+.employee {
+  border: 1px solid black;
+  border-radius: 10px;
+
+  margin: 5px;
+  padding: 5px;
+  padding-left: 30px;
+
+  letter-spacing: 2px;
+}
